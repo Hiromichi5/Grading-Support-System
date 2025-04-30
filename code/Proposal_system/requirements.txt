@@ -1,0 +1,12 @@
+mbientlab-metawear==0.4.6
+numpy
+pandas
+matplotlib
+japanize-matplotlib
+pytz
+pygame
+playsound==1.2.2
+keras
+tensorflow
+joblib
+opencv-python
